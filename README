@@ -1,52 +1,50 @@
-ID attribute values
+# ID attribute values
 
-films
-	Applied to a div tag. The list of films in the representation.
+* films
+	Applied to a div tag. The list of films in the representation. May contain only one film.
 
-***
-Class attribute values
+# Class attribute values
 
-all
+* all
 	Applied to a UL tag. This is a list in the representation - in this case, a list of all the films available.
 
-year
+* year
 	Applied to a SPAN tag. Consists of the year in which a film was released.
 
-title
+* title
 	Applied to a LI tag. Consists of a film's title.
 
-summary
+* summary
 	Applied to a LI tag. Consists of text summary of a film.
 
-genre
+* genre
 	Applied to a LI tag. Consists of a film's associated genre.
 
-language
+* language
 	Applied to a LI tag. Consists of the language a film was made in.
 
-director
+* director
 	Applied to a LI tag. Consists of the name of a film's director.
 
-producer
+* producer
 	Applied to a LI tag. Consists of the name of a film's producer.
 
-writer
+* writer
 	Applied to a LI tag. Consists of the name of a film's writer.
 
-distributor
+* distributor
 	Applied to a LI tag. Consists of the name of a film's distributor.
 
-actor
+* actor
 	Applied to a LI tag. Consists of the name of a film's actor. May be repeated.
 
-website 
+* website 
 	Applied to a LI tag within an A tag. The title of a film's official website, with a reference to the representation of the site
 
-***
-Rel attribute values
+# Rel attribute values
 
-film
+* film
 	Applied to an A tag. A reference to a film representation.
 
-website
+* website
 	Applied to an A tag. A reference to a film's official website.
