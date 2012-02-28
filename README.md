@@ -1,12 +1,18 @@
 # ID attribute values
 
+* search
+	* Applied to a div tag. Contains a form for searching for films that meet certain constraints.
+
 * films
 	* Applied to a div tag. The list of films in the representation. May contain only one film.
+
+* new-film
+	* Applied to a div tag. Contains a form for adding a new film.
 
 # Class attribute values
 
 * all
-	* Applied to a UL tag. This is a list in the representation - in this case, a list of all the films available.
+	* Applied to a UL tag. This is a list of all the films available.
 
 * year
 	* Applied to a SPAN tag. Consists of the year in which a film was released.
@@ -40,6 +46,9 @@
 
 * website 
 	* Applied to a LI tag within an A tag. The title of a film's official website, with a reference to the representation of the site
+
+* found
+	* Applied to a UL tag. This is a list of the films retrieved that match a user's query.
 
 # Rel attribute values
 
