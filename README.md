@@ -57,3 +57,35 @@
 
 * website
 	* Applied to an A tag. A reference to a film's official website.
+
+# Name attribute values
+
+* title
+	* Applied to an INPUT[text] element. The title of an individual film.
+
+* year
+	* Applied to an INPUT[text] element. The year of an individual film.
+
+* director
+	* Applied to an INPUT[text] element. The director of an individual film.
+
+* producer
+	* Applied to an INPUT[text] element. The producer of an individual film.
+
+* writer
+	* Applied to an INPUT[text] element. The writer of an individual film.
+
+* distributor 
+	* Applied to an INPUT[text] element. The distributor of an individual film.
+
+* rating
+	* Applied to an INPUT[text] element. The rating of an individual film.
+
+* genre
+	* Applied to an INPUT[text] element. The genre of an individual film.
+
+* language
+	* Applied to an INPUT[text] element. The language of an individual film.
+
+* actor
+	* Applied to an INPUT[text] element. The actor of an individual film.
